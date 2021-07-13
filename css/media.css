@@ -402,7 +402,10 @@ display: none;
         width: 80%;
         margin: auto;
     }
- 
+    .icouns ul li h1 {
+        font-size: 19px;
+       
+    }
 
 }
 @media(min-width:0px) and (max-width:320px){
@@ -507,8 +510,25 @@ display: none;
         margin: auto;
     }
     .icouns ul li h1 {
-        font-size: 21px;
-        
+        font-size: 15px;
     }
+    .best_fetiures_content2 p {
+        
+        font-size: 13.5px;
+       
+    }
+    .headingr h1 {
+       
+        font-size: 21px;
+     
+    }
+
+    .built_highc h1 {
+        
+        font-size: 22px;
+      
+    }
+
+
 
 }
