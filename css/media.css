@@ -395,7 +395,13 @@ display: none;
         width: 52%;
         margin: auto;
     }
-
+    .pricemm {
+        border: 1px solid #c1d3d2;
+        text-align: center;
+        transition: 0.5s all ease-in-out;
+        width: 80%;
+        margin: auto;
+    }
  
 
 }
@@ -500,6 +506,9 @@ display: none;
         width: 52%;
         margin: auto;
     }
-
+    .icouns ul li h1 {
+        font-size: 21px;
+        
+    }
 
 }
