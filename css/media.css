@@ -1,0 +1,505 @@
+@media(min-width:1441px) and (max-width:2560px){
+    .nargis  {
+display: none;
+ }
+
+
+
+
+
+
+}
+
+@media(min-width:1025px) and (max-width:1440px){
+   
+    .nargis  {
+        display: none;
+    }
+
+
+
+
+}
+
+@media(min-width:992px) and (max-width:1024px){
+    .pamelaa {
+        display: none;
+    }
+
+
+
+
+
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+ 
+
+    .pamelaa{
+        display: none;
+         }
+
+         .navbar-light .navbar-nav .nav-link {
+            
+            margin-right: 0px;
+            text-align: end;
+        }
+        .markd3 {
+            text-align: end;
+        }
+        .best_fetiures_content h1 {
+           
+            font-size: 18px;
+           
+        }
+
+
+        .best_fetiures_content p {
+            
+            font-size: 12px;
+        }
+
+
+        .icouns ul li h1 {
+            font-size: 19px;
+           
+        }
+
+        .looking_per_conternt {
+            margin-top: 55px;
+        }
+
+        .directorcontent {
+            margin-top: 51px;
+            
+        }
+        .built_highc h1 {
+            
+            font-size: 19px;
+        }
+        .built_high {
+           
+            padding: 35px;
+        }
+
+        .footers i.fab.fa-twitter {
+           font-size: 18px;
+           
+            height: 30px;
+            line-height: 32px;
+            
+            width: 30px;
+            
+        }
+
+        .footers i.fa-facebook-f{
+            font-size: 18px;
+            
+             height: 30px;
+             line-height: 32px;
+             
+             width: 30px;
+             
+         }
+
+         .footers i.fab.fa-instagram{
+            font-size: 18px;
+            
+             height: 30px;
+             line-height: 32px;
+             
+             width: 30px;
+             
+         }
+         .footers i.fas.fa-basketball-ball{
+            font-size: 18px;
+            
+             height: 30px;
+             line-height: 32px;
+             
+             width: 30px;
+             
+         }
+
+         .footers i.fab.fa-github-alt{
+            font-size: 18px;
+            
+             height: 30px;
+             line-height: 32px;
+             
+             width: 30px;
+             
+         }
+
+ 
+}
+    
+
+@media(min-width:576px) and (max-width:768px){
+
+
+
+    .pamelaa {
+        display: none;
+    }
+
+
+
+
+
+
+
+
+   
+
+}
+
+@media(min-width:427px) and (max-width:575px){
+    
+
+    .pamelaa {
+        display: none;
+    }
+
+    .wewalpik h1 {
+        
+        font-size: 39px;
+    }
+
+
+    .babu {
+        
+        display: none;
+       
+    }
+       
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-right: 0px;
+        text-align: center;
+    }
+
+
+    .markd3 {
+        text-align: center;
+    }
+
+    .loging_perfd_img img {
+        display: none;
+    }
+
+    .looking_per_conternt {
+        margin-top: 9px;
+    }
+    
+    .directorncbb {
+        padding: 100px 0;
+        text-align: center;
+    }
+
+    .directcontent_2 {
+        text-align: center;
+    }
+    .built_high {
+        background: #eef1ec;
+        align-items: center;
+        /* color: #eef1ec; */
+        text-align: center;
+        padding: 29px;
+    }
+    .pricepad {
+        padding: 0;
+        width: 37%;
+        /* margin-bottom: 10px; */
+        margin: auto;
+        margin-bottom: 16px;
+    }
+    .downlofo_contemt1 {
+        
+        text-align: center;
+    }
+
+    .mainboto {
+        text-align: center;
+       
+    }
+    .footer_before {
+       
+        text-align: center;
+    }
+    footer {
+       
+        text-align: center;
+    }
+    .footers {
+        text-align: center;
+    }
+
+}
+
+@media(min-width:376px) and (max-width:426px){
+   
+    .pamelaa {
+        display: none;
+    }
+    .babu {
+        
+        display: none;
+       
+    }
+       
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-right: 0px;
+        text-align: center;
+    }
+
+
+    .markd3 {
+        text-align: center;
+    }
+    .loging_perfd_img img {
+        display: none;
+    }
+
+    .looking_per_conternt {
+        margin-top: 17px;
+    }
+    
+    .directorcontent {
+        margin-top: 0px;
+        text-align: center;
+        /* padding: 13px; */
+    }
+    .built_high {
+        text-align: center;
+        padding: 25px 5px;
+    }
+    .pricepad {
+        padding: 0;
+        margin: auto;
+        width: 66%;
+        margin-bottom: 11px;
+    }
+    .downlofo_contemt1 {
+        
+        text-align: center;
+    }
+
+    .mainboto {
+        text-align: center;
+       
+    }
+
+    .footer_before {
+       
+        text-align: center;
+    }
+    footer {
+       
+        text-align: center;
+    }
+    .footers {
+        text-align: center;
+    }
+    .directcontent_2 {
+        
+        width: 52%;
+        margin: auto;
+    }
+
+}
+
+@media(min-width:321px) and (max-width:375px){
+ 
+    .pamelaa {
+        display: none;
+    }
+    .babu {
+        
+        display: none;
+       
+    }
+       
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-right: 0px;
+        text-align: center;
+    }
+
+
+    .markd3 {
+        text-align: center;
+    }
+
+    .header_contooos {
+       
+        text-align: center;
+    }
+
+    .loging_perfd_img img {
+        display: none;
+    }
+
+    .looking_per_conternt {
+        margin-top: 17px;
+    }
+
+    .directorcontent {
+        margin-top: 0px;
+        text-align: center;
+        /* padding: 13px; */
+    }
+    .built_high {
+        text-align: center;
+        padding: 25px 5px;
+    }
+    .pricepad {
+        padding: 0;
+        margin: auto;
+        width: 95%;
+        margin-bottom: 11px;
+    }
+
+    .downlofo_contemt1 {
+        
+        text-align: center;
+    }
+
+    .mainboto {
+        text-align: center;
+       
+    }
+
+    .footer_before {
+       
+        text-align: center;
+    }
+
+
+    footer {
+       
+        text-align: center;
+    }
+    .footers {
+        text-align: center;
+    }
+    .wewalpik h1 {
+       
+        font-size: 34px;
+    }
+
+    .directcontent_2 {
+        
+        width: 52%;
+        margin: auto;
+    }
+
+ 
+
+}
+@media(min-width:0px) and (max-width:320px){
+
+    .babu {
+        
+        display: none;
+       
+    }
+       
+    .navbar-light .navbar-nav .nav-link {
+        
+        margin-right: 0px;
+        text-align: center;
+    }
+
+
+    .markd3 {
+        text-align: center;
+    }
+
+    .header_contooos {
+       
+        text-align: center;
+    }
+
+    .loging_perfd_img img {
+        display: none;
+    }
+
+    .looking_per_conternt {
+        margin-top: 17px;
+    }
+
+    .directorcontent {
+        margin-top: 0px;
+        text-align: center;
+        /* padding: 13px; */
+    }
+
+    .built_high {
+        text-align: center;
+        padding: 25px 5px;
+    }
+    .pricepad {
+        padding: 0;
+        margin: auto;
+        width: 95%;
+        margin-bottom: 11px;
+    }
+    .pamelaa {
+        display: none;
+    }
+    .included ul {
+       
+        padding: 0;
+      
+        margin-top: 1px;
+    }
+    .mangokkk {
+        margin-top: 25px;
+    }
+
+    .downlofo_contemt1 {
+        
+        text-align: center;
+    }
+
+    .mainboto {
+        text-align: center;
+       
+    }
+
+    .footer_before {
+       
+        text-align: center;
+    }
+
+
+    footer {
+       
+        text-align: center;
+    }
+    .footers {
+        text-align: center;
+    }
+    .wewalpik h1 {
+       
+        font-size: 34px;
+    }
+    .phnumber i {
+        
+        font-size: 15px;
+    }
+    .phnumber h5 {
+      
+        font-size: 12px;
+    }
+    .directcontent_2 {
+        
+        width: 52%;
+        margin: auto;
+    }
+
+
+}
