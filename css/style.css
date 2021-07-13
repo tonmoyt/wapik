@@ -194,7 +194,7 @@ width: 50%;
     transition: 0.5s all ease-in-out;
 }   
 .best_fetiures_content:hover{
-    box-shadow: 0px 61px 148px rgb(0 0 0 / 10%);
+    box-shadow: 0px 1px 17px rgb(111 176 72);
 }
 .best_fetiures_content img{
 
@@ -238,7 +238,7 @@ padding: 20px;
 transition: 0.5s all ease-in-out;
 }
 .best_fetiures_content2:hover{
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 1px 17px rgb(111 176 72);
 
 
 
@@ -499,8 +499,8 @@ border: 1px solid #c1d3d2;
 text-align: center;
 transition: 0.5s all ease-in-out;
 }
-.pricemm{
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+.pricemm:hover{
+    box-shadow: 0px 1px 17px rgb(111 176 72);
     
 
 
