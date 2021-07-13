@@ -238,7 +238,7 @@ display: none;
 
 }
 
-@media(min-width:376px) and (max-width:426px){
+@media(min-width:377px) and (max-width:426px){
    
     .pamelaa {
         display: none;
@@ -311,7 +311,7 @@ display: none;
 
 }
 
-@media(min-width:321px) and (max-width:375px){
+@media(min-width:321px) and (max-width:376px){
  
     .pamelaa {
         display: none;
